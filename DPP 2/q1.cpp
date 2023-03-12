@@ -1,4 +1,4 @@
-// rotating matrix by 90 degree
+// rotating matrix by 90 degree: Clockwise
 
     void execute(vector<vector<int>>& matrix) {
         
