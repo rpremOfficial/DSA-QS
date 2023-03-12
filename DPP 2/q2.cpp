@@ -1,3 +1,5 @@
+// Checking Palindrome 
+
 void execute(){
 	string s;
 	cin >> s;
