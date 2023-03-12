@@ -1,6 +1,6 @@
 // rotating matrix by 90 degree
 
-void execute(vector<vector<int>>& matrix) {
+    void execute(vector<vector<int>>& matrix) {
         
         int n = matrix.size();
         for(int i = 0; i < n/2; i++){

@@ -1,3 +1,5 @@
+// Isomorphic strings
+
     bool isIsomorphic(string s, string t) {
         int n = s.size();
         bool flag = true;
